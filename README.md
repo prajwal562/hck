@@ -1,5 +1,5 @@
-# hck
-Havingor look for the github repository. You only have to choose the number. 
+# hack in termux darkfly
+Havingor look for the github repository. You only have to choose the number. 
 
 which tool you want to install. there are 530 tools ready for intall. 
 
